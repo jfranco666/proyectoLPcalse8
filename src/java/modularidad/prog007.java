@@ -11,11 +11,11 @@ public class prog007 {
         System.out.println("gracias por usar este programa");
     }
     public static mensaje(){
-        System.out.println("en todo tiempo ama el maigo...prov 17:17");
+            System.out.println("\"en todo tiempo ama el maigo...prov 17:17\"");
     }
     public static void moin(String[] args){
     saludo();
-    mensaje();
     despedida();
+    mensaje();
     }
 }
