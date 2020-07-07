@@ -14,7 +14,7 @@ public class prog008 {
     public static void factorial(int num){
         int fac = 1;
         for (int i = 1; i <= num; i++) {
-          fac*=1;  
+          fac*=i;  
         }
         System.out.println("factorial de "+num +":" +fac);
     }
