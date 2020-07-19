@@ -1,8 +1,9 @@
 
 package arreglos;
 
-//Generar la serie fibanacci de todos los números menores a N, 
-//y registrarlos en un arreglo
+//Ingresar valores a un arreglo mientras este sea diferente de cero, 
+//luego ingresar por el teclado un valor y mostrar cuántas 
+//veces se repite ese elemento en el arreglo.
 import java.util.ArrayList;
 import utis.leer;
 import java.util.Scanner;
